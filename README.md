@@ -1,0 +1,1 @@
+# The-Swiss-GenAI-Index
