@@ -1,6 +1,6 @@
 # Author Information
-Name: Balazs Alvin
-E-Mail: alvin.balazs
+Name: Alvin
+E-Mail: 
 Affiliation: University of Bern
 
 # Goal of the Project
